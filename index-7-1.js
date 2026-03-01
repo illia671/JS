@@ -1,12 +1,12 @@
 // const arr = []//масив
-const students = [
-  "Олександа",
-  "Nikolai",
-  "Eldar",
-  "Tymofiy",
-  "Matviy",
-  "Illia",
-];
+// const students = [
+//   "Олександа",
+//   "Nikolai",
+//   "Eldar",
+//   "Tymofiy",
+//   "Matviy",
+//   "Illia",
+// ];
 // console.log(typeof student)
 // console.log(student[5])
 
