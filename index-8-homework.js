@@ -48,4 +48,4 @@
 //   cards[i] = "Карточка-6"
 // }
 
-// console.log(cards);
+// console.log(cards); 
