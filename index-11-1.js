@@ -1,5 +1,5 @@
 // const user = {
-//     //ключ значення
+//?     ключ значення
 //     name: "Петро",
 //     skills:["js"],
 //     expiriance: 2,
@@ -64,17 +64,20 @@
 //         this[key] = value
 //     }
 // }
+
+// const arr = [1,2,3]
 // console.log(book.updateProperties("year", 2020))
 // console.log(book)
 
-const car = {
-    brand: "tayota",
-    modal: "X3",
-    color: "blue" ,
-    year: "2000",
-    dox(){
-        return `${this.brand}, ${this.color}, ${this.modal}, ${this.year}`;
-    }
-}
-
-console.log(car.dox)
+// const car = {
+//     brand: "tayota",
+//     modal: "X3",
+//     color: "blue" ,
+//     year: "2000",
+//     dox(){
+//         return `${this.brand}, ${this.color}, ${this.modal}, ${this.year}`;
+//     }
+// }
+// console.log(typeof book)
+// console.log(typeof arr)
+// console.log(car.dox)
